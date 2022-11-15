@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\bin\Debug\Task5PolybiusSquare.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\bin\Debug\Task5PolybiusSquare.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\bin\Debug\Task5PolybiusSquare.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\1\Task5PolybiusSquare\Task5PolybiusSquare\obj\Debug\Task5PolybiusSquare.pdb

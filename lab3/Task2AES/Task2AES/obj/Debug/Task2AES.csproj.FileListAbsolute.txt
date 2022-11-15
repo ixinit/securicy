@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\bin\Debug\Task2AES.exe.config
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\bin\Debug\Task2AES.exe
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\bin\Debug\Task2AES.pdb
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.exe
+C:\Users\user\PycharmProjects\securicy\lab3\Task2AES\Task2AES\obj\Debug\Task2AES.pdb

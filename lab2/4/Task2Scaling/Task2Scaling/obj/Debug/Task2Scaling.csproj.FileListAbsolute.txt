@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\bin\Debug\Task2Scaling.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\bin\Debug\Task2Scaling.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\bin\Debug\Task2Scaling.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task2Scaling\Task2Scaling\obj\Debug\Task2Scaling.pdb

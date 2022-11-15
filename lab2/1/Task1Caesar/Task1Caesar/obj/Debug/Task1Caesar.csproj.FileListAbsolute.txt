@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\bin\Debug\Task1Caesar.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\bin\Debug\Task1Caesar.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\bin\Debug\Task1Caesar.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task1Caesar\Task1Caesar\obj\Debug\Task1Caesar.pdb

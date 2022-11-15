@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\bin\Debug\Task1CaeserCrack.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\bin\Debug\Task1CaeserCrack.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\bin\Debug\Task1CaeserCrack.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\2\Task1CaeserCrack\Task1CaeserCrack\obj\Debug\Task1CaeserCrack.pdb

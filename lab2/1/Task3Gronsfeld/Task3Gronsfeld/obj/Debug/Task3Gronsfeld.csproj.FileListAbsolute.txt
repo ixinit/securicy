@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\bin\Debug\Task3Gronsfeld.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\bin\Debug\Task3Gronsfeld.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\bin\Debug\Task3Gronsfeld.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\Task3Gronsfeld\Task3Gronsfeld\obj\Debug\Task3Gronsfeld.pdb

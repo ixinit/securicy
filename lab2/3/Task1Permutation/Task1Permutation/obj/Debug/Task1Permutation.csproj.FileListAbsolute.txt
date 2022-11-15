@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\bin\Debug\Task1Permutation.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\bin\Debug\Task1Permutation.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\bin\Debug\Task1Permutation.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task1Permutation\Task1Permutation\obj\Debug\Task1Permutation.pdb

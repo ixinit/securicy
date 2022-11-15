@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\bin\Debug\Task3Skitalla.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\bin\Debug\Task3Skitalla.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\bin\Debug\Task3Skitalla.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\3\Task3Skitalla\Task3Skitalla\obj\Debug\Task3Skitalla.pdb

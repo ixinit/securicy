@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\bin\Debug\Task1Scaling.exe.config
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\bin\Debug\Task1Scaling.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\bin\Debug\Task1Scaling.pdb
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.Form1.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.Properties.Resources.resources
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.exe
+C:\Users\user\Desktop\4курс 1 сем\Безопасность\lab2\4\Task1Scaling\Task1Scaling\obj\Debug\Task1Scaling.pdb
