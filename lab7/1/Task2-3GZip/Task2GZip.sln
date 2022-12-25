@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2GZip", "Task2GZip\Task2GZip.csproj", "{021A64EB-36E8-44AE-A1D2-F4CB745AB4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021A64EB-36E8-44AE-A1D2-F4CB745AB4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A64EB-36E8-44AE-A1D2-F4CB745AB4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A64EB-36E8-44AE-A1D2-F4CB745AB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A64EB-36E8-44AE-A1D2-F4CB745AB4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35DFEEF-FAC0-41FB-9227-ACEE8D5787BD}
+	EndGlobalSection
+EndGlobal

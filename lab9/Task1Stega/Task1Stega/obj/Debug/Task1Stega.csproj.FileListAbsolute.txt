@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\bin\Debug\Task1Stega.exe.config
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\bin\Debug\Task1Stega.exe
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\bin\Debug\Task1Stega.pdb
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.exe
+C:\Users\user\PycharmProjects\securicy\lab9\Task1Stega\Task1Stega\obj\Debug\Task1Stega.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\bin\Debug\Task1RLE.exe.config
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\bin\Debug\Task1RLE.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\bin\Debug\Task1RLE.pdb
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task1RLE\Task1RLE\obj\Debug\Task1RLE.pdb

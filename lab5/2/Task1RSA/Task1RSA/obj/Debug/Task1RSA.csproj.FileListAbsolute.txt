@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\bin\Debug\Task1RSA.exe.config
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\bin\Debug\Task1RSA.exe
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\bin\Debug\Task1RSA.pdb
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.exe
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task1RSA\Task1RSA\obj\Debug\Task1RSA.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\bin\Debug\Task2GZip.exe.config
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\bin\Debug\Task2GZip.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\bin\Debug\Task2GZip.pdb
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task2GZip\Task2GZip\obj\Debug\Task2GZip.pdb

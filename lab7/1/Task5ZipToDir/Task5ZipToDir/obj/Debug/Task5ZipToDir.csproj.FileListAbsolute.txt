@@ -1,0 +1,7 @@
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\bin\Debug\Task5ZipToDir.exe.config
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\bin\Debug\Task5ZipToDir.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\bin\Debug\Task5ZipToDir.pdb
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\obj\Debug\Task5ZipToDir.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\obj\Debug\Task5ZipToDir.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\obj\Debug\Task5ZipToDir.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task5ZipToDir\Task5ZipToDir\obj\Debug\Task5ZipToDir.pdb

@@ -1,0 +1,1 @@
+Go through the pixels of the image until you find 8 consecutive zeros. As you pass, select the LSB from each pixel element (R, G, B) and attach it to a blank value. When the 8 bits of this value are complete, convert it back to a symbol, and then add that character to the text of the result you're looking for.

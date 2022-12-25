@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\bin\Debug\Task1DidfieHellman.exe.config
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\bin\Debug\Task1DidfieHellman.exe
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\bin\Debug\Task1DidfieHellman.pdb
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.exe
+C:\Users\user\PycharmProjects\securicy\lab5\Task1DidfieHellman\Task1DidfieHellman\obj\Debug\Task1DidfieHellman.pdb

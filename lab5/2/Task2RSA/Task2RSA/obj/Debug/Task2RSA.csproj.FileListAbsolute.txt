@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\bin\Debug\Task2RSA.exe.config
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\bin\Debug\Task2RSA.exe
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\bin\Debug\Task2RSA.pdb
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.exe
+C:\Users\user\PycharmProjects\securicy\lab5\2\Task2RSA\Task2RSA\obj\Debug\Task2RSA.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\Task1ShifrPoleyBD.exe.config
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\Task1ShifrPoleyBD.exe
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\Task1ShifrPoleyBD.pdb
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\EntityFramework.dll
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\EntityFramework.xml
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.csproj.CopyComplete
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.exe
+C:\Users\user\PycharmProjects\securicy\lab8\1\Task1ShifrPoleyBD\Task1ShifrPoleyBD\obj\Debug\Task1ShifrPoleyBD.pdb

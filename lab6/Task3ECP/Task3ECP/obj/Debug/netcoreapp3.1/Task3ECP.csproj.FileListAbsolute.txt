@@ -1,0 +1,13 @@
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.exe
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.deps.json
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.runtimeconfig.json
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.runtimeconfig.dev.json
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.dll
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\bin\Debug\netcoreapp3.1\Task3ECP.pdb
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.AssemblyInfoInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.AssemblyInfo.cs
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.dll
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.pdb
+C:\Users\user\PycharmProjects\securicy\lab6\Task3ECP\Task3ECP\obj\Debug\netcoreapp3.1\Task3ECP.genruntimeconfig.cache
