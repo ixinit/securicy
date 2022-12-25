@@ -1,0 +1,10 @@
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\bin\Debug\Task1Imaging.exe.config
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\bin\Debug\Task1Imaging.exe
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\bin\Debug\Task1Imaging.pdb
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.Form1.resources
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.Properties.Resources.resources
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.csproj.GenerateResource.cache
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.exe
+C:\Users\user\PycharmProjects\securicy\lab7\2\Task1Imaging\Task1Imaging\obj\Debug\Task1Imaging.pdb

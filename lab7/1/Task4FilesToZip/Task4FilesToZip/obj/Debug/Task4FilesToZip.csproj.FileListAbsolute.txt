@@ -1,0 +1,7 @@
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\bin\Debug\Task4FilesToZip.exe.config
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\bin\Debug\Task4FilesToZip.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\bin\Debug\Task4FilesToZip.pdb
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\obj\Debug\Task4FilesToZip.csproj.AssemblyReference.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\obj\Debug\Task4FilesToZip.csproj.CoreCompileInputs.cache
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\obj\Debug\Task4FilesToZip.exe
+C:\Users\user\PycharmProjects\securicy\lab7\1\Task4FilesToZip\Task4FilesToZip\obj\Debug\Task4FilesToZip.pdb

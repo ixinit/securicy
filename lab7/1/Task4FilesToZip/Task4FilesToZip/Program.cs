@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task5ZipToDir
+namespace Task4FilesToZip
 {
     class Program
     {
@@ -18,7 +18,7 @@ namespace Task5ZipToDir
             string zipPath = "Test.zip";
 
             // Извлечем файл zip в эту папку.
-            string extractPath = "Test_extr";
+            string extractPath = "./Test_extr";
             // Упаковываю
             // Создать файл zip с помощью сжатия папки.
             ZipFile.CreateFromDirectory(inputDir, zipPath);
